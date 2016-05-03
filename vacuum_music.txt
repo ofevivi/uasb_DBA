@@ -1,0 +1,412 @@
+﻿INFO:  haciendo vacuum a «pg_catalog.pg_type»
+INFO:  «pg_type»: se encontraron 0 versiones eliminables de filas y 374 no eliminables en 9 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_type»
+INFO:  «pg_type»: se procesaron 9 de 9 páginas, que contenían 372 filas vigentes y 2 filas no vigentes; 372 filas en la muestra, 372 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_class»
+INFO:  «pg_class»: se encontraron 0 versiones eliminables de filas y 337 no eliminables en 9 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_class»
+INFO:  «pg_class»: se procesaron 9 de 9 páginas, que contenían 336 filas vigentes y 3 filas no vigentes; 336 filas en la muestra, 336 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_statistic»
+INFO:  «pg_statistic»: se encontraron 62 versiones eliminables de filas y 467 no eliminables en 30 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.06 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_inherits»
+INFO:  «pg_inherits»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_inherits»
+INFO:  «pg_inherits»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_index»
+INFO:  «pg_index»: se encontraron 1 versiones eliminables de filas y 132 no eliminables en 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «pg_catalog.pg_index»
+INFO:  «pg_index»: se procesaron 3 de 3 páginas, que contenían 132 filas vigentes y 0 filas no vigentes; 132 filas en la muestra, 132 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_opfamily»
+INFO:  «pg_opfamily»: se encontraron 0 versiones eliminables de filas y 77 no eliminables en 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_opfamily»
+INFO:  «pg_opfamily»: se procesaron 2 de 2 páginas, que contenían 77 filas vigentes y 0 filas no vigentes; 77 filas en la muestra, 77 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_opclass»
+INFO:  «pg_opclass»: se encontraron 0 versiones eliminables de filas y 120 no eliminables en 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_opclass»
+INFO:  «pg_opclass»: se procesaron 2 de 2 páginas, que contenían 120 filas vigentes y 0 filas no vigentes; 120 filas en la muestra, 120 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_am»
+INFO:  «pg_am»: se encontraron 0 versiones eliminables de filas y 5 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_am»
+INFO:  «pg_am»: se procesaron 1 de 1 páginas, que contenían 5 filas vigentes y 0 filas no vigentes; 5 filas en la muestra, 5 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_amop»
+INFO:  «pg_amop»: se encontraron 0 versiones eliminables de filas y 403 no eliminables en 4 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_amop»
+INFO:  «pg_amop»: se procesaron 4 de 4 páginas, que contenían 403 filas vigentes y 0 filas no vigentes; 403 filas en la muestra, 403 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_amproc»
+INFO:  «pg_amproc»: se encontraron 0 versiones eliminables de filas y 291 no eliminables en 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_amproc»
+INFO:  «pg_amproc»: se procesaron 3 de 3 páginas, que contenían 291 filas vigentes y 0 filas no vigentes; 291 filas en la muestra, 291 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_language»
+INFO:  «pg_language»: se encontraron 0 versiones eliminables de filas y 4 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_language»
+INFO:  «pg_language»: se procesaron 1 de 1 páginas, que contenían 4 filas vigentes y 0 filas no vigentes; 4 filas en la muestra, 4 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_largeobject_metadata»
+INFO:  «pg_largeobject_metadata»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_largeobject_metadata»
+INFO:  «pg_largeobject_metadata»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_database»
+INFO:  «pg_database»: se encontraron 0 versiones eliminables de filas y 4 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_database»
+INFO:  «pg_database»: se procesaron 1 de 1 páginas, que contenían 4 filas vigentes y 0 filas no vigentes; 4 filas en la muestra, 4 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_cast»
+INFO:  «pg_cast»: se encontraron 0 versiones eliminables de filas y 196 no eliminables en 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_cast»
+INFO:  «pg_cast»: se procesaron 2 de 2 páginas, que contenían 196 filas vigentes y 0 filas no vigentes; 196 filas en la muestra, 196 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_enum»
+INFO:  «pg_enum»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_enum»
+INFO:  «pg_enum»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_namespace»
+INFO:  «pg_namespace»: se encontraron 0 versiones eliminables de filas y 6 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_namespace»
+INFO:  «pg_namespace»: se procesaron 1 de 1 páginas, que contenían 6 filas vigentes y 0 filas no vigentes; 6 filas en la muestra, 6 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_conversion»
+INFO:  «pg_conversion»: se encontraron 0 versiones eliminables de filas y 132 no eliminables en 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_conversion»
+INFO:  «pg_conversion»: se procesaron 3 de 3 páginas, que contenían 132 filas vigentes y 0 filas no vigentes; 132 filas en la muestra, 132 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_depend»
+INFO:  «pg_depend»: se encontraron 90 versiones eliminables de filas y 6493 no eliminables en 49 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  analizando «pg_catalog.pg_depend»
+INFO:  «pg_depend»: se procesaron 48 de 48 páginas, que contenían 6491 filas vigentes y 2 filas no vigentes; 6491 filas en la muestra, 6491 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_db_role_setting»
+INFO:  «pg_db_role_setting»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  analizando «pg_catalog.pg_db_role_setting»
+INFO:  «pg_db_role_setting»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_tablespace»
+INFO:  «pg_tablespace»: se encontraron 0 versiones eliminables de filas y 2 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_tablespace»
+INFO:  «pg_tablespace»: se procesaron 1 de 1 páginas, que contenían 2 filas vigentes y 0 filas no vigentes; 2 filas en la muestra, 2 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_pltemplate»
+INFO:  «pg_pltemplate»: se encontraron 0 versiones eliminables de filas y 8 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_pltemplate»
+INFO:  «pg_pltemplate»: se procesaron 1 de 1 páginas, que contenían 8 filas vigentes y 0 filas no vigentes; 8 filas en la muestra, 8 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_auth_members»
+INFO:  «pg_auth_members»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.07 sec.
+INFO:  analizando «pg_catalog.pg_auth_members»
+INFO:  «pg_auth_members»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_shdepend»
+INFO:  «pg_shdepend»: se encontraron 11 versiones eliminables de filas y 46 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_shdepend»
+INFO:  «pg_shdepend»: se procesaron 1 de 1 páginas, que contenían 46 filas vigentes y 0 filas no vigentes; 46 filas en la muestra, 46 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_shdescription»
+INFO:  «pg_shdescription»: se encontraron 0 versiones eliminables de filas y 3 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_shdescription»
+INFO:  «pg_shdescription»: se procesaron 1 de 1 páginas, que contenían 3 filas vigentes y 0 filas no vigentes; 3 filas en la muestra, 3 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_config»
+INFO:  «pg_ts_config»: se encontraron 0 versiones eliminables de filas y 16 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_ts_config»
+INFO:  «pg_ts_config»: se procesaron 1 de 1 páginas, que contenían 16 filas vigentes y 0 filas no vigentes; 16 filas en la muestra, 16 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_config_map»
+INFO:  «pg_ts_config_map»: se encontraron 0 versiones eliminables de filas y 304 no eliminables en 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_ts_config_map»
+INFO:  «pg_ts_config_map»: se procesaron 2 de 2 páginas, que contenían 304 filas vigentes y 0 filas no vigentes; 304 filas en la muestra, 304 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_dict»
+INFO:  «pg_ts_dict»: se encontraron 0 versiones eliminables de filas y 16 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_ts_dict»
+INFO:  «pg_ts_dict»: se procesaron 1 de 1 páginas, que contenían 16 filas vigentes y 0 filas no vigentes; 16 filas en la muestra, 16 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_template»
+INFO:  «pg_ts_template»: se encontraron 0 versiones eliminables de filas y 5 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_ts_template»
+INFO:  «pg_ts_template»: se procesaron 1 de 1 páginas, que contenían 5 filas vigentes y 0 filas no vigentes; 5 filas en la muestra, 5 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_extension»
+INFO:  «pg_extension»: se encontraron 0 versiones eliminables de filas y 1 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_extension»
+INFO:  «pg_extension»: se procesaron 1 de 1 páginas, que contenían 1 filas vigentes y 0 filas no vigentes; 1 filas en la muestra, 1 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_foreign_server»
+INFO:  «pg_foreign_server»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_foreign_server»
+INFO:  «pg_foreign_server»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_foreign_table»
+INFO:  «pg_foreign_table»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_foreign_table»
+INFO:  «pg_foreign_table»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_seclabel»
+INFO:  «pg_seclabel»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  analizando «pg_catalog.pg_seclabel»
+INFO:  «pg_seclabel»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_shseclabel»
+INFO:  «pg_shseclabel»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_shseclabel»
+INFO:  «pg_shseclabel»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_largeobject»
+INFO:  «pg_largeobject»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_largeobject»
+INFO:  «pg_largeobject»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_packages»
+INFO:  «sql_packages»: se encontraron 0 versiones eliminables de filas y 10 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «information_schema.sql_packages»
+INFO:  «sql_packages»: se procesaron 1 de 1 páginas, que contenían 10 filas vigentes y 0 filas no vigentes; 10 filas en la muestra, 10 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_sizing»
+INFO:  «sql_sizing»: se encontraron 0 versiones eliminables de filas y 23 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  analizando «information_schema.sql_sizing»
+INFO:  «sql_sizing»: se procesaron 1 de 1 páginas, que contenían 23 filas vigentes y 0 filas no vigentes; 23 filas en la muestra, 23 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_sizing_profiles»
+INFO:  «sql_sizing_profiles»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  analizando «information_schema.sql_sizing_profiles»
+INFO:  «sql_sizing_profiles»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «public.album»
+INFO:  «album»: se encontraron 0 versiones eliminables de filas y 306 no eliminables en 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «public.album»
+INFO:  «album»: se procesaron 3 de 3 páginas, que contenían 306 filas vigentes y 0 filas no vigentes; 306 filas en la muestra, 306 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_attrdef»
+INFO:  «pg_attrdef»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  analizando «pg_catalog.pg_attrdef»
+INFO:  «pg_attrdef»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_aggregate»
+INFO:  «pg_aggregate»: se encontraron 0 versiones eliminables de filas y 121 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_aggregate»
+INFO:  «pg_aggregate»: se procesaron 1 de 1 páginas, que contenían 121 filas vigentes y 0 filas no vigentes; 121 filas en la muestra, 121 total de filas estimadas
+INFO:  haciendo vacuum a «public.mediatype»
+INFO:  «mediatype»: se encontraron 0 versiones eliminables de filas y 5 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «public.mediatype»
+INFO:  «mediatype»: se procesaron 1 de 1 páginas, que contenían 5 filas vigentes y 0 filas no vigentes; 5 filas en la muestra, 5 total de filas estimadas
+INFO:  haciendo vacuum a «public.artist»
+INFO:  «artist»: se encontraron 0 versiones eliminables de filas y 244 no eliminables en 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «public.artist»
+INFO:  «artist»: se procesaron 2 de 2 páginas, que contenían 244 filas vigentes y 0 filas no vigentes; 244 filas en la muestra, 244 total de filas estimadas
+INFO:  haciendo vacuum a «public.genre»
+INFO:  «genre»: se encontraron 0 versiones eliminables de filas y 25 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «public.genre»
+INFO:  «genre»: se procesaron 1 de 1 páginas, que contenían 25 filas vigentes y 0 filas no vigentes; 25 filas en la muestra, 25 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_features»
+INFO:  «sql_features»: se encontraron 0 versiones eliminables de filas y 672 no eliminables en 7 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «information_schema.sql_features»
+INFO:  «sql_features»: se procesaron 7 de 7 páginas, que contenían 672 filas vigentes y 0 filas no vigentes; 672 filas en la muestra, 672 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_collation»
+INFO:  «pg_collation»: se encontraron 0 versiones eliminables de filas y 81 no eliminables en 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «pg_catalog.pg_collation»
+INFO:  «pg_collation»: se procesaron 3 de 3 páginas, que contenían 81 filas vigentes y 0 filas no vigentes; 81 filas en la muestra, 81 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_parts»
+INFO:  «sql_parts»: se encontraron 0 versiones eliminables de filas y 9 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «information_schema.sql_parts»
+INFO:  «sql_parts»: se procesaron 1 de 1 páginas, que contenían 9 filas vigentes y 0 filas no vigentes; 9 filas en la muestra, 9 total de filas estimadas
+INFO:  haciendo vacuum a «public.employee»
+INFO:  «employee»: se encontraron 0 versiones eliminables de filas y 8 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «public.employee»
+INFO:  «employee»: se procesaron 1 de 1 páginas, que contenían 8 filas vigentes y 0 filas no vigentes; 8 filas en la muestra, 8 total de filas estimadas
+INFO:  haciendo vacuum a «public.playlist»
+INFO:  «playlist»: se encontraron 0 versiones eliminables de filas y 17 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «public.playlist»
+INFO:  «playlist»: se procesaron 1 de 1 páginas, que contenían 17 filas vigentes y 0 filas no vigentes; 17 filas en la muestra, 17 total de filas estimadas
+INFO:  haciendo vacuum a «public.playlisttrack»
+INFO:  «playlisttrack»: se encontraron 0 versiones eliminables de filas y 5941 no eliminables en 27 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «public.playlisttrack»
+INFO:  «playlisttrack»: se procesaron 27 de 27 páginas, que contenían 5941 filas vigentes y 0 filas no vigentes; 5941 filas en la muestra, 5941 total de filas estimadas
+INFO:  haciendo vacuum a «public.track»
+INFO:  «track»: se encontraron 0 versiones eliminables de filas y 2883 no eliminables en 35 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «public.track»
+INFO:  «track»: se procesaron 35 de 35 páginas, que contenían 2883 filas vigentes y 0 filas no vigentes; 2883 filas en la muestra, 2883 total de filas estimadas
+INFO:  haciendo vacuum a «public.invoiceline»
+INFO:  «invoiceline»: se encontraron 0 versiones eliminables de filas y 1107 no eliminables en 8 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «public.invoiceline»
+INFO:  «invoiceline»: se procesaron 8 de 8 páginas, que contenían 1107 filas vigentes y 0 filas no vigentes; 1107 filas en la muestra, 1107 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_user_mapping»
+INFO:  «pg_user_mapping»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_user_mapping»
+INFO:  «pg_user_mapping»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_rewrite»
+INFO:  «pg_rewrite»: se encontraron 0 versiones eliminables de filas y 111 no eliminables en 12 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.07 sec.
+INFO:  analizando «pg_catalog.pg_rewrite»
+INFO:  «pg_rewrite»: se procesaron 12 de 12 páginas, que contenían 111 filas vigentes y 0 filas no vigentes; 111 filas en la muestra, 111 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_range»
+INFO:  «pg_range»: se encontraron 0 versiones eliminables de filas y 6 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_range»
+INFO:  «pg_range»: se procesaron 1 de 1 páginas, que contenían 6 filas vigentes y 0 filas no vigentes; 6 filas en la muestra, 6 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_implementation_info»
+INFO:  «sql_implementation_info»: se encontraron 0 versiones eliminables de filas y 12 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «information_schema.sql_implementation_info»
+INFO:  «sql_implementation_info»: se procesaron 1 de 1 páginas, que contenían 12 filas vigentes y 0 filas no vigentes; 12 filas en la muestra, 12 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_attribute»
+INFO:  «pg_attribute»: se encontraron 95 versiones eliminables de filas y 2557 no eliminables en 56 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «pg_catalog.pg_attribute»
+INFO:  «pg_attribute»: se procesaron 47 de 47 páginas, que contenían 2530 filas vigentes y 27 filas no vigentes; 2530 filas en la muestra, 2530 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_trigger»
+INFO:  «pg_trigger»: se encontraron 0 versiones eliminables de filas y 44 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «pg_catalog.pg_trigger»
+INFO:  «pg_trigger»: se procesaron 1 de 1 páginas, que contenían 44 filas vigentes y 0 filas no vigentes; 44 filas en la muestra, 44 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_default_acl»
+INFO:  «pg_default_acl»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_default_acl»
+INFO:  «pg_default_acl»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_proc»
+INFO:  «pg_proc»: se encontraron 0 versiones eliminables de filas y 2529 no eliminables en 63 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_proc»
+INFO:  «pg_proc»: se procesaron 63 de 63 páginas, que contenían 2529 filas vigentes y 0 filas no vigentes; 2529 filas en la muestra, 2529 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_event_trigger»
+INFO:  «pg_event_trigger»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_event_trigger»
+INFO:  «pg_event_trigger»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_foreign_data_wrapper»
+INFO:  «pg_foreign_data_wrapper»: se encontraron 0 versiones eliminables de filas y 0 no eliminables en 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «pg_catalog.pg_foreign_data_wrapper»
+INFO:  «pg_foreign_data_wrapper»: se procesaron 0 de 0 páginas, que contenían 0 filas vigentes y 0 filas no vigentes; 0 filas en la muestra, 0 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_authid»
+INFO:  «pg_authid»: se encontraron 0 versiones eliminables de filas y 5 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.02 sec.
+INFO:  analizando «pg_catalog.pg_authid»
+INFO:  «pg_authid»: se procesaron 1 de 1 páginas, que contenían 5 filas vigentes y 0 filas no vigentes; 5 filas en la muestra, 5 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_constraint»
+INFO:  «pg_constraint»: se encontraron 0 versiones eliminables de filas y 24 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_constraint»
+INFO:  «pg_constraint»: se procesaron 1 de 1 páginas, que contenían 24 filas vigentes y 0 filas no vigentes; 24 filas en la muestra, 24 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_operator»
+INFO:  «pg_operator»: se encontraron 0 versiones eliminables de filas y 734 no eliminables en 14 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_operator»
+INFO:  «pg_operator»: se procesaron 14 de 14 páginas, que contenían 734 filas vigentes y 0 filas no vigentes; 734 filas en la muestra, 734 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_description»
+INFO:  «pg_description»: se encontraron 0 versiones eliminables de filas y 3497 no eliminables en 31 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_description»
+INFO:  «pg_description»: se procesaron 31 de 31 páginas, que contenían 3497 filas vigentes y 0 filas no vigentes; 3497 filas en la muestra, 3497 total de filas estimadas
+INFO:  haciendo vacuum a «information_schema.sql_languages»
+INFO:  «sql_languages»: se encontraron 0 versiones eliminables de filas y 4 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «information_schema.sql_languages»
+INFO:  «sql_languages»: se procesaron 1 de 1 páginas, que contenían 4 filas vigentes y 0 filas no vigentes; 4 filas en la muestra, 4 total de filas estimadas
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_parser»
+INFO:  «pg_ts_parser»: se encontraron 0 versiones eliminables de filas y 1 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «pg_catalog.pg_ts_parser»
+INFO:  «pg_ts_parser»: se procesaron 1 de 1 páginas, que contenían 1 filas vigentes y 0 filas no vigentes; 1 filas en la muestra, 1 total de filas estimadas
+INFO:  haciendo vacuum a «public.customer»
+INFO:  «customer»: se encontraron 0 versiones eliminables de filas y 36 no eliminables en 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  analizando «public.customer»
+INFO:  «customer»: se procesaron 1 de 1 páginas, que contenían 36 filas vigentes y 0 filas no vigentes; 36 filas en la muestra, 36 total de filas estimadas
+INFO:  haciendo vacuum a «public.invoice»
+INFO:  «invoice»: se encontraron 0 versiones eliminables de filas y 251 no eliminables en 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  analizando «public.invoice»
+INFO:  «invoice»: se procesaron 3 de 3 páginas, que contenían 251 filas vigentes y 0 filas no vigentes; 251 filas en la muestra, 251 total de filas estimadas
