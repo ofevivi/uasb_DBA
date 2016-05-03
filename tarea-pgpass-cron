@@ -9,4 +9,4 @@ $ chmod 600 $HOME/.pgpass
 
 2. Agregamos al archivo /etc/crontab la tarea para generar backups de “musicdb” a horas 14:00  de forma diaria, utilizando el script “backup_musicdb.sh”.
 
-$ sudo crontab -e 00 14 * * * /home/ofe/bk_DB/backup_musicdb.sh
+$ sudo crontab -l 00 14 * * * /home/ofe/bk_DB/backup_musicdb.sh
