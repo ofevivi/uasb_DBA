@@ -1,0 +1,11 @@
+Backup con la opción -a, orden:
+
+$ pg_dump -U uasb_user -W -a musicdb > /home/.../bk_musicdb
+
+Explicación: Se realiza un backup solo de los datos, no del esquema. Es similiar a --section=data, pero no es igual.
+
+Backup con la opción -v, orden:
+
+$ pg_dump -U uasb_user -W -v musicdb > /home/.../bk_musicdb
+
+Explicación: Especifica el modo detallado, es decir, se muestra una salida detallada de comentarios, de las veces que se inicia o detiene el proceso de volcado, y el progreso de los mensajes de error estándar.
